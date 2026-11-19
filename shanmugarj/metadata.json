@@ -1,0 +1,6 @@
+{
+  "name": "shanmugarj",
+  "description": "shanmugarj — Bilingual English & Tamil funny horoscope entertainment for 12th Computer Science & Bio-Maths tuition students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
